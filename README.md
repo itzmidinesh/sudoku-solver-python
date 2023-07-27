@@ -19,7 +19,7 @@ puzzle = [[5,3,0,0,7,0,0,0,0],
 You can change the input puzzle at the top of the file [sudoku.py](/sudoku.py)
 
 ## Output
-Output is printed in the console as a nested list of lists
+Output is printed to the console.
 
 # Setup
 
