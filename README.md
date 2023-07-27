@@ -29,3 +29,6 @@ $ cd sudoku-solver-python
 $ python sudoku.py
 ```
 ---
+
+# Example
+![This is a screenshot of the script in action](/example.jpg)
